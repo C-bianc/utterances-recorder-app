@@ -1,14 +1,16 @@
 # Recording App Controller
 
-This is a Java-based sound recording application. The main component is the `RecordingAppController` class, which manages the recording process, audio file handling, and the integration with a CSV file to store the utterance statuses.
+This is a Java-based sound recording application with a simple user interface. The main component is the `RecordingAppController` class, which manages the recording process, audio file handling, and the integration with a CSV file to store the utterance statuses.
 
 ## Features
+- **CSV Integration**: Load a CSV file containing utterances and update the statuses of recorded files.
+
+![image](https://github.com/user-attachments/assets/b0fb04d5-1a2d-4bcd-afb5-ea2ade01a2c1)
 
 - **Record Audio**: Start and stop audio recording for a specific utterance.
 - **Play Audio**: Play back previously recorded audio files.
 - **Delete Audio**: Delete recorded audio files.
-- **CSV Integration**: Load a CSV file containing utterances and update the statuses of recorded files.
-- **User Interface**: A simple interface with buttons for recording, playing, and deleting audio files.
+
 
 ## Setup
 
