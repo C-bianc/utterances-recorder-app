@@ -16,13 +16,13 @@ This is a Java-based sound recording application with a simple user interface. T
 
 1. Clone the repository using the following:
    ```bash
-   https://github.com/C-bianc/utterances-recorder-app.git
+   git clone https://github.com/C-bianc/utterances-recorder-app.git
    ```
 
    or
 
    ```bash
-   git@github.com:C-bianc/utterances-recorder-app.git
+   git clone git@github.com:C-bianc/utterances-recorder-app.git
    ```
 
 ## Improvements
