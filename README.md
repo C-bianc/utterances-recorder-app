@@ -8,9 +8,12 @@ This is a Java-based sound recording application with a simple user interface. T
 <img src="https://github.com/user-attachments/assets/b0fb04d5-1a2d-4bcd-afb5-ea2ade01a2c1" width="300">
 
 - **Record Audio**: Start and stop audio recording for a specific utterance.
+<img src="https://github.com/user-attachments/assets/69c6a3bc-a2a2-4f76-86a9-ae64d58e8875" width="300">
+
+
 - **Play Audio**: Play back previously recorded audio files.
 - **Delete Audio**: Delete recorded audio files.
-
+<img src="https://github.com/user-attachments/assets/baeaa050-7197-49b4-a523-1eb01b6049f1" width="300">
 
 ## Setup
 
