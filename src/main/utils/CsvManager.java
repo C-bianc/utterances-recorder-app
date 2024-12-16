@@ -30,7 +30,7 @@ public class CsvManager {
 				String text = record.get(UTTERANCE_COLUMN);
 				try {
 					String status = record.get("Status");
-					if ("not_done".equals(status)) {
+					if ("not_done".equals(status) || status.isEmpty()) {
 						utterances.add(new Utterance(id, text, status));
 					}
 				} catch (Exception ignored) {
