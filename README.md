@@ -5,7 +5,7 @@ This is a Java-based sound recording application with a simple user interface. T
 ## Features
 - **CSV Integration**: Load a CSV file containing utterances and update the statuses of recorded files.
 
-![image](https://github.com/user-attachments/assets/b0fb04d5-1a2d-4bcd-afb5-ea2ade01a2c1)
+![image|500](https://github.com/user-attachments/assets/b0fb04d5-1a2d-4bcd-afb5-ea2ade01a2c1)
 
 - **Record Audio**: Start and stop audio recording for a specific utterance.
 - **Play Audio**: Play back previously recorded audio files.
