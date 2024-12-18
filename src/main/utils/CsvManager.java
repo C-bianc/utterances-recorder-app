@@ -35,6 +35,9 @@ public class CsvManager {
 					}
 				} catch (Exception ignored) {
 				}
+				finally {
+					utterances.add(new Utterance(id,text,null));
+				}
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
